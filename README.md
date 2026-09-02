@@ -1,4 +1,4 @@
-# ShopPulse-Retail-Customer-Intelligence-Purchase-Analytics.
+# ShopPulse — Retail Customer Intelligence
 
 **End-to-end retail analytics project combining Python, SQL, and Power BI to turn raw shopping data into customer-level business insight.**
 
@@ -91,8 +91,10 @@ The Power BI dashboard is built around two views:
 - Segment performance comparison — customer count, average purchase amount, average review rating, and revenue contribution %
 
 **Dashboard Preview Section**
-![Customer Intelligence Dashboard](images/dashboard_overview.png)
-![Shopping Behavior Dashboard](images/customer_intelligence.png)
+![Shopping Behavior Dashboard](images/dashboard_overview.png)
+*Shopping behavior view — demographics, categories, seasonality, and payment patterns*
+![Customer Intelligence Dashboard](images/customer_intelligence.png)
+*Customer segmentation — VIP / Growth / Loyalist / Low Engagement performance comparison*
 
 ---
 
