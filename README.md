@@ -90,6 +90,10 @@ The Power BI dashboard is built around two views:
 - Average purchase amount by segment
 - Segment performance comparison — customer count, average purchase amount, average review rating, and revenue contribution %
 
+**Dashboard Preview Section**
+![Shopping Behavior Dashboard](Screenshot%202026-08-29%20192104.png)
+![Customer Intelligence Dashboard](Screenshot%202026-08-29%20192123.png)
+
 ---
 
 ## Key Analytical Questions
