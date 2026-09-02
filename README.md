@@ -1,4 +1,4 @@
-ShopPulse-Retail-Customer-Intelligence-Purchase-Analytics.
+# ShopPulse-Retail-Customer-Intelligence-Purchase-Analytics.
 
 **End-to-end retail analytics project combining Python, SQL, and Power BI to turn raw shopping data into customer-level business insight.**
 
